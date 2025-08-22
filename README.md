@@ -5,7 +5,7 @@
 
 🌱 **Currently learning:** Deep Learning, Computer Vision, Transfer Learning, NLP & Applied AI.  
 
-⚡ **Fun fact:** Final-year **B.Tech (ECE)** student at **USICT, GGSIPU**, passionate about **Machine Learning, Data Science, and AI Research**.  
+⚡ Final-year **B.Tech (ECE)** student at **USICT, GGSIPU**, passionate about **Machine Learning, Data Science, and AI Research**.  
 
 👾 **Key Projects & Research:**  
 - **Encrypted Traffic Classification (DRDO):** Deep learning model for encrypted traffic detection (73% accuracy).  
